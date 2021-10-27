@@ -1,0 +1,1235 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/0228e3b8-903b-57a5-ab3e-f5ba04c46022",
+      "url": "https://www.nytimes.com/2021/09/24/world/covid-boosters-vaccine-cdc-director.html",
+      "id": 100000007990905,
+      "asset_id": 100000007990905,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-24 19:02:14",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Walensky, Rochelle;Centers for Disease Control and Prevention",
+      "column": null,
+      "byline": "By Apoorva Mandavilli and Benjamin Mueller",
+      "type": "Article",
+      "title": "C.D.C. Chief Overrules Agency Panel and Recommends Pfizer-BioNTech Boosters for Workers at Risk",
+      "abstract": "In a highly unusual decision, the C.D.C. director, Rochelle Walensky, reversed a move by agency advisers and endorsed additional doses of the Pfizer-BioNTech vaccine for health care workers, teachers and other workers at risk.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Walensky, Rochelle"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Rochelle Walensky, the C.D.C. director, at a hearing in July.",
+          "copyright": "Stefani Reynolds for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/10/23/world/23virus-boosters-sub/23virus-boosters-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/23/world/23virus-boosters-sub/merlin_191081667_22f381b8-cb60-4f68-a82c-fbc2e2e8e7ac-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/10/23/world/23virus-boosters-sub/merlin_191081667_22f381b8-cb60-4f68-a82c-fbc2e2e8e7ac-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/018c0d40-08e5-5c07-a8ab-7779dbe05d09",
+      "url": "https://www.nytimes.com/article/tropical-storm-sam-hurricane.html",
+      "id": 100000007963539,
+      "asset_id": 100000007963539,
+      "source": "New York Times",
+      "published_date": "2021-09-23",
+      "updated": "2021-09-25 17:43:27",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Hurricanes and Tropical Storms;Weather;Floods;Rain;Global Warming;Caribbean Area;Atlantic Ocean",
+      "column": null,
+      "byline": "By The New York Times",
+      "type": "Article",
+      "title": "Sam Becomes a Category 4 Hurricane",
+      "abstract": "The fourth named storm to form in less than a week was forecast to strengthen Saturday night as it moved across the Atlantic Ocean.",
+      "des_facet": [
+        "Hurricanes and Tropical Storms",
+        "Weather",
+        "Floods",
+        "Rain",
+        "Global Warming"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Caribbean Area",
+        "Atlantic Ocean"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hurricane Sam, which intensified to a Category 4 storm on Saturday, was producing winds of up to 140 miles per hour, according to the National Hurricane Center.",
+          "copyright": "NOAA",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/multimedia/25Sam-2PMEDT-Sat/25Sam-2PMEDT-Sat-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/multimedia/25Sam-2PMEDT-Sat/25Sam-2PMEDT-Sat-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/multimedia/25Sam-2PMEDT-Sat/25Sam-2PMEDT-Sat-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0e7e3763-df76-5b40-8838-91f110dfdb58",
+      "url": "https://www.nytimes.com/2021/09/24/us/politics/aoc-israel-iron-dome.html",
+      "id": 100000007992447,
+      "asset_id": 100000007992447,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 12:44:49",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States International Relations;Defense and Military Forces;Law and Legislation;Ocasio-Cortez, Alexandria;Hoyer, Steny H;House of Representatives;Democratic Party;Israel",
+      "column": null,
+      "byline": "By Luke Broadwater",
+      "type": "Article",
+      "title": "Ocasio-Cortez apologizes for her \u2018present\u2019 vote on Iron Dome funding.",
+      "abstract": "In a letter to constituents, the New York congresswoman suggested she had changed her \u201cno\u201d vote because she had been subjected to \u201chateful targeting\u201d for opposing the aid.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Ocasio-Cortez, Alexandria",
+        "Hoyer, Steny H"
+      ],
+      "geo_facet": [
+        "Israel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Alexandria Ocasio-Cortez, Democrat of New York, drew condemnations on social media both from supporters of Israel and from progressives and pro-Palestinian activists after her \u201cpresent\u201d vote.",
+          "copyright": "J. Scott Applewhite/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/world/24dc-aoc-1/merlin_195098616_053e123a-7535-4e17-af75-723d4b708539-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/world/24dc-aoc-1/merlin_195098616_053e123a-7535-4e17-af75-723d4b708539-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/world/24dc-aoc-1/merlin_195098616_053e123a-7535-4e17-af75-723d4b708539-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5b49cdf3-26c9-5ebe-9842-03b417d40735",
+      "url": "https://www.nytimes.com/2021/09/24/opinion/ron-desantis-florida.html",
+      "id": 100000007982741,
+      "asset_id": 100000007982741,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 14:40:05",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Politics and Government;Presidential Election of 2024;Elections, Governors;Coronavirus (2019-nCoV);DeSantis, Ron;Trump, Donald J;Republican Party;Florida",
+      "column": null,
+      "byline": "By Liz Mair",
+      "type": "Article",
+      "title": "Ron DeSantis Was a Slam Dunk. Until He Wasn\u2019t.",
+      "abstract": "By following a G.O.P. base strategy on pandemic issues in a state hard hit by Covid, he may have left himself vulnerable.",
+      "des_facet": [
+        "Politics and Government",
+        "Presidential Election of 2024",
+        "Elections, Governors",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "DeSantis, Ron",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/26/opinion/24mair1/24mair1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/26/opinion/24mair1/24mair1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/26/opinion/24mair1/24mair1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/18f4f1a8-d54f-5616-9611-59de61ddca79",
+      "url": "https://www.nytimes.com/2021/09/24/nyregion/coronavirus-hospitals-vaccines.html",
+      "id": 100000007987112,
+      "asset_id": 100000007987112,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 15:54:44",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Hospitals;Nursing Homes;Regulation and Deregulation of Industry;Workplace Hazards and Violations;Coronavirus (2019-nCoV);Vaccination and Immunization;Labor and Jobs;Layoffs and Job Reductions;Hochul, Kathleen C;Health Department (NYS);New York State;New York City",
+      "column": null,
+      "byline": "By Sharon Otterman and Joseph Goldstein",
+      "type": "Article",
+      "title": "New York Hospitals Face Possible Mass Firings as Workers Spurn Vaccines",
+      "abstract": "With a Monday deadline looming, thousands of health care workers in the state are risking their jobs by not getting a coronavirus vaccine.",
+      "des_facet": [
+        "Hospitals",
+        "Nursing Homes",
+        "Regulation and Deregulation of Industry",
+        "Workplace Hazards and Violations",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Labor and Jobs",
+        "Layoffs and Job Reductions"
+      ],
+      "org_facet": [
+        "Health Department (NYS)"
+      ],
+      "per_facet": [
+        "Hochul, Kathleen C"
+      ],
+      "geo_facet": [
+        "New York State",
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mobile vaccination unit visiting the Bronx River Houses in New York City on Thursday.",
+          "copyright": "James Estrin/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/nyregion/00nyvaxx-mandate/00nyvaxx-mandate-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/nyregion/00nyvaxx-mandate/00nyvaxx-mandate-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/nyregion/00nyvaxx-mandate/00nyvaxx-mandate-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ead5a8ea-2bba-5e1a-94da-d1d4e117b37f",
+      "url": "https://www.nytimes.com/2021/09/23/us/kroger-collierville-shooting-victim.html",
+      "id": 100000007990682,
+      "asset_id": 100000007990682,
+      "source": "New York Times",
+      "published_date": "2021-09-23",
+      "updated": "2021-09-24 17:50:34",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Supermarkets and Grocery Stores;Mass Shootings;Deaths (Fatalities);Kroger Company;Collierville (Tenn)",
+      "column": null,
+      "byline": "By Alyssa Lukpat and Giulia Heyward",
+      "type": "Article",
+      "title": "The woman who was killed is remembered as \u2018kind, generous, caring, selfless.\u2019",
+      "abstract": "Olivia King died in a hospital after the gunman shot her in the chest, one of her sons said.",
+      "des_facet": [
+        "Supermarkets and Grocery Stores",
+        "Mass Shootings",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Kroger Company"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Collierville (Tenn)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Embracing outside the scene of a shooting at a Kroger grocery store in Collierville, Tenn., on Thursday.",
+          "copyright": "Joe Rondone/The Commercial Appeal, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/us/23collierville-briefing-victim1/23collierville-briefing-victim1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/us/23collierville-briefing-victim1/23collierville-briefing-victim1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/us/23collierville-briefing-victim1/23collierville-briefing-victim1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/69c483a6-1d4a-5862-b55e-e0454bdc2373",
+      "url": "https://www.nytimes.com/2021/09/24/us/arizona-election-review-trump-biden.html",
+      "id": 100000007990060,
+      "asset_id": 100000007990060,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-24 23:17:31",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Voter Fraud (Election Fraud);Rumors and Misinformation;Conspiracy Theories;State Legislatures;Politics and Government;United States Politics and Government;Trump, Donald J;Republican Party;Arizona",
+      "column": null,
+      "byline": "By Jack Healy, Michael Wines and Nick Corasaniti",
+      "type": "Article",
+      "title": "Republican Review of Arizona Vote Fails to Show Stolen Election",
+      "abstract": "The criticized review showed much the same results as in November, with 99 more Biden votes and 261 fewer Trump ones.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Rumors and Misinformation",
+        "Conspiracy Theories",
+        "State Legislatures",
+        "Politics and Government",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Arizona"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chief executive of Cyber Ninjas, Doug Logan, helped deliver a report to the Arizona Senate on Friday about Maricopa County\u2019s voting results from the 2020 election.",
+          "copyright": "Adriana Zehbrauskas for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/24arizona/24arizona-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/24arizona/24arizona-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/24arizona/24arizona-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c82b9877-f951-5ffc-9d04-8b202d8e128b",
+      "url": "https://www.nytimes.com/2021/09/24/arts/music/britney-spears-conservatorship-documentary.html",
+      "id": 100000007970160,
+      "asset_id": 100000007970160,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 09:39:47",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Pop and Rock Music;Privacy;Wills and Estates;Computer Security;Suits and Litigation (Civil);Spears, Britney;Spears, Jamie (1952- );Yemini, Edan;Vlasov, Alex;Greenhill, Robin;Black Box Security Inc;Tri Star Sports & Entertainment Group",
+      "column": null,
+      "byline": "By Liz Day and Samantha Stark",
+      "type": "Article",
+      "title": "The Surveillance Apparatus That Surrounded Britney Spears",
+      "abstract": "An account by a former employee of the security team hired by Ms. Spears\u2019s father created the most detailed portrait yet of the singer\u2019s life under 13 years of conservatorship.",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Privacy",
+        "Wills and Estates",
+        "Computer Security",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Black Box Security Inc",
+        "Tri Star Sports & Entertainment Group"
+      ],
+      "per_facet": [
+        "Spears, Britney",
+        "Spears, Jamie (1952- )",
+        "Yemini, Edan",
+        "Vlasov, Alex",
+        "Greenhill, Robin"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britney Spears in Las Vegas in 2018. A new documentary by The New York Times, \u201cControlling Britney Spears,\u201d which examines the security operation surrounding the singer, was released on Friday.",
+          "copyright": "Gabe Ginsberg/FilmMagic, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/24britney1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/24britney1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/24britney1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8ecca62c-7bf5-5dc7-ac06-52a9b1d8ed2f",
+      "url": "https://www.nytimes.com/2021/09/25/nyregion/nyc-vaccine-mandate-teachers.html",
+      "id": 100000007992937,
+      "asset_id": 100000007992937,
+      "source": "New York Times",
+      "published_date": "2021-09-25",
+      "updated": "2021-09-25 13:28:36",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Coronavirus (2019-nCoV);Teachers and School Employees;Appeals Courts (US);de Blasio, Bill;Pfizer Inc;BioNTech SE;Education Department (NYC);New York City",
+      "column": null,
+      "byline": "By Eliza Shapiro and Jonah E. Bromwich",
+      "type": "Article",
+      "title": "A federal appeals court delays New York City\u2019s vaccine mandate for teachers.",
+      "abstract": "The mandate, which affects well over 150,000 people working in the nation\u2019s largest school system, was set to go into effect on Monday at midnight.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Teachers and School Employees",
+        "Appeals Courts (US)"
+      ],
+      "org_facet": [
+        "Pfizer Inc",
+        "BioNTech SE",
+        "Education Department (NYC)"
+      ],
+      "per_facet": [
+        "de Blasio, Bill"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A teacher preparing her classroom for the reopening of school at Brooklyn Science &amp; Engineering Academy on Sept. 9.",
+          "copyright": "Gabby Jones for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/world/25virus-briefing-nyc-schools-1/25virus-briefing-nyc-schools-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/world/25virus-briefing-nyc-schools-1/merlin_194458599_630804d2-f61f-4574-8500-9a24aae74ec4-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/world/25virus-briefing-nyc-schools-1/merlin_194458599_630804d2-f61f-4574-8500-9a24aae74ec4-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/107cc471-974c-57f8-98cf-bb9433d1b009",
+      "url": "https://www.nytimes.com/2021/09/24/us/politics/biden-pfizer-booster-shot.html",
+      "id": 100000007991259,
+      "asset_id": 100000007991259,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-24 20:46:45",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Vaccination and Immunization;United States Politics and Government;Coronavirus Delta Variant;Biden, Joseph R Jr;Walensky, Rochelle;Centers for Disease Control and Prevention;Food and Drug Administration",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg and Michael D. Shear",
+      "type": "Article",
+      "title": "As Biden hails Pfizer boosters, the C.D.C. director defends her move to include frontline workers.",
+      "abstract": "Remarks by President Biden and the C.D.C. director, Dr. Rochelle Walensky, came after Dr. Walensky overruled a recommendation by her agency\u2019s panel of scientific advisers against booster shots of the Pfizer-BioNTech Covid vaccine for frontline workers.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "United States Politics and Government",
+        "Coronavirus Delta Variant"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Food and Drug Administration"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Walensky, Rochelle"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/48461f5f-10bf-5c9e-a9a1-a72ebf64a3e6",
+      "url": "https://www.nytimes.com/2021/09/23/science/moderna-johnson-covid-boosters.html",
+      "id": 100000007990262,
+      "asset_id": 100000007990262,
+      "source": "New York Times",
+      "published_date": "2021-09-23",
+      "updated": "2021-09-24 19:02:49",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Centers for Disease Control and Prevention;Johnson & Johnson;Moderna Inc;Pfizer Inc;United States",
+      "column": null,
+      "byline": "By Apoorva Mandavilli and Benjamin Mueller",
+      "type": "Article",
+      "title": "Boosters for Moderna and Johnson & Johnson vaccine recipients weren\u2019t up for debate during a C.D.C. panel.",
+      "abstract": "The panel was not asked to judge whether people who received the Moderna and Johnson & Johnson vaccines should receive Pfizer-BioNTech boosters.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Johnson & Johnson",
+        "Moderna Inc",
+        "Pfizer Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vials with Pfizer-BioNTech and Moderna coronavirus disease (COVID-19) vaccine labels.",
+          "copyright": "Dado Ruvic/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/science/23virus-briefing-mixandmatch/23virus-briefing-mixandmatch-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/science/23virus-briefing-mixandmatch/23virus-briefing-mixandmatch-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/science/23virus-briefing-mixandmatch/23virus-briefing-mixandmatch-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c66b8c54-a91d-5dc7-b7f9-eadde708501e",
+      "url": "https://www.nytimes.com/2021/09/24/us/politics/vaccine-boosters-rollout-states.html",
+      "id": 100000007989264,
+      "asset_id": 100000007989264,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 08:27:33",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Elderly;Drugstores;United States Politics and Government;Pfizer Inc;BioNTech SE;Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Noah Weiland, Reed Abelson and Jan Hoffman",
+      "type": "Article",
+      "title": "States Begin a Complex Booster Shot Rollout for Pfizer Recipients",
+      "abstract": "Health officials were preparing on Friday to start giving booster shots to older and at-risk Americans, trying to make sense of new and broad eligibility guidelines.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Elderly",
+        "Drugstores",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Pfizer Inc",
+        "BioNTech SE",
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State and federal officials were unconcerned about the vaccine supply to cover those eligible for booster shots over the next few months.",
+          "copyright": "Emily Elconin/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/politics/24dc-rollout/24dc-rollout-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/politics/24dc-rollout/24dc-rollout-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/us/politics/24dc-rollout/24dc-rollout-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9ef0d020-87f1-5da7-9658-9cb12f52afd8",
+      "url": "https://www.nytimes.com/2021/09/24/technology/facebook-australia-comments.html",
+      "id": 100000007982172,
+      "asset_id": 100000007982172,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 00:02:51",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Social Media;Libel and Slander;Suits and Litigation (Civil);Decisions and Verdicts;Freedom of Speech and Expression;Censorship;News and News Media;Regulation and Deregulation of Industry;Computers and the Internet;Voller, Dylan;Facebook Inc;Australia",
+      "column": null,
+      "byline": "By Oscar Schwartz",
+      "type": "Article",
+      "title": "That Comment Someone Left on Facebook? It Can Get You Sued.",
+      "abstract": "Australia\u2019s top court has said media companies can be held liable for replies to their posts, prompting some to step back from the platform.",
+      "des_facet": [
+        "Social Media",
+        "Libel and Slander",
+        "Suits and Litigation (Civil)",
+        "Decisions and Verdicts",
+        "Freedom of Speech and Expression",
+        "Censorship",
+        "News and News Media",
+        "Regulation and Deregulation of Industry",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        "Voller, Dylan"
+      ],
+      "geo_facet": [
+        "Australia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dylan Voller, who sued Australian media outlets over comments on their Facebook pages, in 2018.",
+          "copyright": "Lukas Coch/Australian Associated Press, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/business/24oz-facebook-print/24oz-facebook-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/business/24oz-facebook-print/merlin_194353560_ac517833-9ecf-403d-b6ad-064def54fe7d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/25/business/24oz-facebook-print/merlin_194353560_ac517833-9ecf-403d-b6ad-064def54fe7d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3dcd1416-e6eb-5a5f-b681-779daa9a74ee",
+      "url": "https://www.nytimes.com/2021/09/24/opinion/jan-6-eastman-memo.html",
+      "id": 100000007990427,
+      "asset_id": 100000007990427,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 01:04:21",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Voter Fraud (Election Fraud);Presidential Election of 2024;Constitution (US);Conservatism (US Politics);Storming of the US Capitol (Jan, 2021);Vice Presidents and Vice Presidency (US);Pence, Mike;Eastman, John C;Republican Party",
+      "column": null,
+      "byline": "By Jamelle Bouie",
+      "type": "Article",
+      "title": "Trump Had a Mob. He Also Had a Plan.",
+      "abstract": "The storming of the Capitol closed the door on one era of American politics and opened the door to another.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Voter Fraud (Election Fraud)",
+        "Presidential Election of 2024",
+        "Constitution (US)",
+        "Conservatism (US Politics)",
+        "Storming of the US Capitol (Jan, 2021)",
+        "Vice Presidents and Vice Presidency (US)"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Pence, Mike",
+        "Eastman, John C"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Leah Millis/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/26/opinion/24bouie1/24bouie1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/26/opinion/24bouie1/24bouie1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/26/opinion/24bouie1/24bouie1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3b4f2442-523a-53bf-92f8-1423f0059956",
+      "url": "https://www.nytimes.com/2021/09/23/science/ancient-footprints-ice-age.html",
+      "id": 100000007986255,
+      "asset_id": 100000007986255,
+      "source": "New York Times",
+      "published_date": "2021-09-23",
+      "updated": "2021-09-24 07:49:07",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Archaeology and Anthropology;Paleontology;Ice Age;Geology;Glaciers;Research;your-feed-science;Science (Journal);White Sands National Monument (NM);North America;New Mexico",
+      "column": null,
+      "byline": "By Carl Zimmer",
+      "type": "Article",
+      "title": "Ancient Footprints Push Back Date of Human Arrival in the Americas",
+      "abstract": "Human footprints found in New Mexico are about 23,000 years old, a study reported, suggesting that people may have arrived long before the Ice Age\u2019s glaciers melted.",
+      "des_facet": [
+        "Archaeology and Anthropology",
+        "Paleontology",
+        "Ice Age",
+        "Geology",
+        "Glaciers",
+        "Research",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Science (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "White Sands National Monument (NM)",
+        "North America",
+        "New Mexico"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fossilized human footprints that a White Sands National Park program manager first discovered.",
+          "copyright": "Dan Odess",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/science/23footprints02/23footprints02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/science/23footprints02/23footprints02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/science/23footprints02/23footprints02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8ec8ef61-29af-57ac-afba-d8af418de250",
+      "url": "https://www.nytimes.com/2021/09/23/us/linda-evangelista-lawsuit-paradoxical-adipose-hyperplasia.html",
+      "id": 100000007988817,
+      "asset_id": 100000007988817,
+      "source": "New York Times",
+      "published_date": "2021-09-23",
+      "updated": "2021-09-25 14:44:13",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Suits and Litigation (Civil);Models (Professional);Plastic Surgery;Malpractice;Evangelista, Linda;Zeltiq Aesthetics Inc",
+      "column": null,
+      "byline": "By Christine Hauser",
+      "type": "Article",
+      "title": "Supermodel Linda Evangelista Says Cosmetic Procedure Left Her \u2018Disfigured\u2019",
+      "abstract": "The \u201990s-era supermodel said side effects from a fat-freezing procedure caused her to become depressed and turned her into a recluse after \u201cnot looking like myself any longer.\u201d",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Models (Professional)",
+        "Plastic Surgery",
+        "Malpractice"
+      ],
+      "org_facet": [
+        "Zeltiq Aesthetics Inc"
+      ],
+      "per_facet": [
+        "Evangelista, Linda"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Linda Evangelista modeling in 1992.",
+          "copyright": " Julio Donoso/Sygma via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/opinion/23xp-evangelista-image/23xp-evangelista-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/opinion/23xp-evangelista-image/23xp-evangelista-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/23/opinion/23xp-evangelista-image/23xp-evangelista-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8f6ec661-7c5e-5a48-ae83-afd1510b2598",
+      "url": "https://www.nytimes.com/2021/09/24/health/schools-mask-mandate-outbreaks-cdc.html",
+      "id": 100000007991617,
+      "asset_id": 100000007991617,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-25 20:13:39",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Education (K-12);Masks;Coronavirus (2019-nCoV);Vaccination and Immunization;Arizona",
+      "column": null,
+      "byline": "By Roni Caryn Rabin",
+      "type": "Article",
+      "title": "U.S. schools with mask requirements are seeing fewer outbreaks, the C.D.C. finds.",
+      "abstract": "Arizona schools that did not require masks had 3.5 times as many outbreaks as those that mandated them.",
+      "des_facet": [
+        "Education (K-12)",
+        "Masks",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Arizona"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students lining up in the cafeteria for lunch at Rising Hill Elementary in Kansas City, Mo., on Thursday.",
+          "copyright": "Katie Currid for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/world/24virus-briefing-masks-schools-1/24virus-briefing-masks-schools-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/world/24virus-briefing-masks-schools-1/24virus-briefing-masks-schools-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/world/24virus-briefing-masks-schools-1/24virus-briefing-masks-schools-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/413c1378-c380-5f02-a991-3ac4336abd97",
+      "url": "https://www.nytimes.com/2021/09/14/well/eat/seltzer-water-benefits.html",
+      "id": 100000007960532,
+      "asset_id": 100000007960532,
+      "source": "New York Times",
+      "published_date": "2021-09-14",
+      "updated": "2021-09-20 23:18:37",
+      "section": "Well",
+      "subsection": "Eat",
+      "nytdsection": "well",
+      "adx_keywords": "Water;Content Type: Service;Fluorides;Teeth and Dentistry;Diet and Nutrition",
+      "column": null,
+      "byline": "By Christina Caron",
+      "type": "Article",
+      "title": "Is Carbonated Water Just as Healthy as Still Water?",
+      "abstract": "Unsweetened carbonated water is a better choice than soda or fruit juice. But don\u2019t overdo it, experts say.",
+      "des_facet": [
+        "Water",
+        "Content Type: Service",
+        "Fluorides",
+        "Teeth and Dentistry",
+        "Diet and Nutrition"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Aileen Son for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/21/well/ASKWELL-SELTZER2/ASKWELL-SELTZER2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/21/well/ASKWELL-SELTZER2/ASKWELL-SELTZER2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/21/well/ASKWELL-SELTZER2/ASKWELL-SELTZER2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8873a04d-9e54-5e82-a468-edab9479447b",
+      "url": "https://www.nytimes.com/2021/09/24/nyregion/michael-k-williams-death-overdose.html",
+      "id": 100000007992158,
+      "asset_id": 100000007992158,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-24 23:42:09",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Drug Abuse and Traffic;Deaths (Fatalities);Fentanyl;Williams, Michael Kenneth",
+      "column": null,
+      "byline": "By Michael Gold and Jonah E. Bromwich",
+      "type": "Article",
+      "title": "Michael K. Williams Died of a Drug Overdose, Authorities Say",
+      "abstract": "The actor known for \u201cThe Wire,\u201d who was found dead in his apartment earlier this month, died of intoxication by a mixture of heroin, cocaine and fentanyl. He had been open about his struggle with addiction.",
+      "des_facet": [
+        "Drug Abuse and Traffic",
+        "Deaths (Fatalities)",
+        "Fentanyl"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Williams, Michael Kenneth"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael K. Williams lived much of his life in East Flatbush, Brooklyn.",
+          "copyright": "Arturo Holmes/Getty Images For Aba",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/nyregion/24williams/24williams-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/nyregion/24williams/24williams-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/nyregion/24williams/24williams-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f68d942c-8b67-51d7-b604-6c85637d77ca",
+      "url": "https://www.nytimes.com/2021/09/24/arts/television/matt-amodio-jeopardy-wins.html",
+      "id": 100000007991737,
+      "asset_id": 100000007991737,
+      "source": "New York Times",
+      "published_date": "2021-09-24",
+      "updated": "2021-09-24 19:42:04",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;Game Shows;Contests and Prizes;Amodio, Matt",
+      "column": null,
+      "byline": "By Julia Jacobs",
+      "type": "Article",
+      "title": "Matt Amodio, the Latest \u2018Jeopardy!\u2019 Star, Breaks $1 Million",
+      "abstract": "The Ph.D. student in computer science at Yale is only the third contestant to reach that level of winnings.",
+      "des_facet": [
+        "Television",
+        "Game Shows",
+        "Contests and Prizes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Amodio, Matt"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Amodio, a Yale graduate student, became the third contestant in \u201cJeopardy!\u201d history to surpass $1 million in winnings.",
+          "copyright": "Jeopardy! Productions Inc., via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/24jeopardy-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/24jeopardy-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/24jeopardy-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

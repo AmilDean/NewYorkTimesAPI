@@ -1,0 +1,2726 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2021-09-25T14:22:20-04:00",
+  "num_results": 33,
+  "results": [
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "The Surveillance Apparatus That Surrounded Britney Spears",
+      "abstract": "An account by a former employee of the security team hired by Ms. Spears\u2019s father created the most detailed portrait yet of the singer\u2019s life under 13 years of conservatorship.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/music/britney-spears-conservatorship-documentary.html",
+      "uri": "nyt://article/c82b9877-f951-5ffc-9d04-8b202d8e128b",
+      "byline": "By Liz Day and Samantha Stark",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T09:39:47-04:00",
+      "created_date": "2021-09-24T22:15:14-04:00",
+      "published_date": "2021-09-24T22:15:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Privacy",
+        "Wills and Estates",
+        "Computer Security",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Black Box Security Inc",
+        "Tri Star Sports & Entertainment Group"
+      ],
+      "per_facet": [
+        "Spears, Britney",
+        "Spears, Jamie (1952- )",
+        "Yemini, Edan",
+        "Vlasov, Alex",
+        "Greenhill, Robin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/merlin_195089766_9803e505-9ce3-45ff-8c6f-6d45cd2c5f6e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1348,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britney Spears in Las Vegas in 2018. A new documentary by The New York Times, \u201cControlling Britney Spears,\u201d which examines the security operation surrounding the singer, was released on Friday.",
+          "copyright": "Gabe Ginsberg/FilmMagic, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/24britney1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britney Spears in Las Vegas in 2018. A new documentary by The New York Times, \u201cControlling Britney Spears,\u201d which examines the security operation surrounding the singer, was released on Friday.",
+          "copyright": "Gabe Ginsberg/FilmMagic, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/24britney1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britney Spears in Las Vegas in 2018. A new documentary by The New York Times, \u201cControlling Britney Spears,\u201d which examines the security operation surrounding the singer, was released on Friday.",
+          "copyright": "Gabe Ginsberg/FilmMagic, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/24britney1-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britney Spears in Las Vegas in 2018. A new documentary by The New York Times, \u201cControlling Britney Spears,\u201d which examines the security operation surrounding the singer, was released on Friday.",
+          "copyright": "Gabe Ginsberg/FilmMagic, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/us/24britney1/merlin_195089766_9803e505-9ce3-45ff-8c6f-6d45cd2c5f6e-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britney Spears in Las Vegas in 2018. A new documentary by The New York Times, \u201cControlling Britney Spears,\u201d which examines the security operation surrounding the singer, was released on Friday.",
+          "copyright": "Gabe Ginsberg/FilmMagic, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kHwq33"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Jared Harris Is (and Isn\u2019t) His Father\u2019s Son",
+      "abstract": "The actor has emerged from the shadow of his father, Richard Harris, with memorable performances in series like \u201cMad Men\u201d and \u201cChernobyl.\u201d Next up is the sci-fi epic \u201cFoundation.\u201d",
+      "url": "https://www.nytimes.com/2021/09/24/arts/television/jared-harris-foundation.html",
+      "uri": "nyt://article/a9d92301-95e9-5dd4-a535-7dd42ffaa178",
+      "byline": "By Noel Murray",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T18:00:09-04:00",
+      "created_date": "2021-09-24T09:00:08-04:00",
+      "published_date": "2021-09-24T09:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Actors and Actresses",
+        "Television",
+        "Foundation (TV Program)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Apple TV Plus"
+      ],
+      "per_facet": [
+        "Harris, Jared",
+        "Harris, Richard"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24HARRIS1b/merlin_195101820_5f10a5cb-d485-42ad-a438-2f5564a9d59b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jared Harris has been one of TV\u2019s busiest actors since his late-career breakthrough on \u201cMad Men.\u201d",
+          "copyright": "Ryan Collerd for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24HARRIS1b/24HARRIS1b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jared Harris has been one of TV\u2019s busiest actors since his late-career breakthrough on \u201cMad Men.\u201d",
+          "copyright": "Ryan Collerd for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24HARRIS1b/24HARRIS1b-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jared Harris has been one of TV\u2019s busiest actors since his late-career breakthrough on \u201cMad Men.\u201d",
+          "copyright": "Ryan Collerd for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24HARRIS1b/24HARRIS1b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jared Harris has been one of TV\u2019s busiest actors since his late-career breakthrough on \u201cMad Men.\u201d",
+          "copyright": "Ryan Collerd for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24HARRIS1b/merlin_195101820_5f10a5cb-d485-42ad-a438-2f5564a9d59b-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jared Harris has been one of TV\u2019s busiest actors since his late-career breakthrough on \u201cMad Men.\u201d",
+          "copyright": "Ryan Collerd for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lOkLPa"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Comedians Turn Their Attention to Abortion",
+      "abstract": "Alison Leiby has an hourlong set looking at the experience of an unwanted pregnancy. She\u2019s among a spate of female artists finding humor in the issue.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/television/abortion-comedy.html",
+      "uri": "nyt://article/22a333d7-0d5e-5183-98da-cb1c9e76454f",
+      "byline": "By Jason Zinoman",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T00:19:46-04:00",
+      "created_date": "2021-09-24T10:51:29-04:00",
+      "published_date": "2021-09-24T10:51:29-04:00",
+      "material_type_facet": "",
+      "kicker": "On Comedy",
+      "des_facet": [
+        "Abortion",
+        "Comedy and Humor",
+        "Movies",
+        "Content Type: Personal Profile",
+        "Law and Legislation",
+        "Oh God, an Hour About Abortion (Play)",
+        "Plan B (Movie)",
+        "Unpregnant (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Leiby, Alison"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24abortion-comedy1/merlin_194977896_d933a8f4-509b-4662-8173-e6d930642e22-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alison Leiby performing \u201cOh God, an Hour About Abortion\u201d at Union Hall in Brooklyn earlier this month.",
+          "copyright": "Krista Schlueter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24abortion-comedy1/24abortion-comedy1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alison Leiby performing \u201cOh God, an Hour About Abortion\u201d at Union Hall in Brooklyn earlier this month.",
+          "copyright": "Krista Schlueter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24abortion-comedy1/24abortion-comedy1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alison Leiby performing \u201cOh God, an Hour About Abortion\u201d at Union Hall in Brooklyn earlier this month.",
+          "copyright": "Krista Schlueter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24abortion-comedy1/24abortion-comedy1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alison Leiby performing \u201cOh God, an Hour About Abortion\u201d at Union Hall in Brooklyn earlier this month.",
+          "copyright": "Krista Schlueter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24abortion-comedy1/merlin_194977896_d933a8f4-509b-4662-8173-e6d930642e22-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alison Leiby performing \u201cOh God, an Hour About Abortion\u201d at Union Hall in Brooklyn earlier this month.",
+          "copyright": "Krista Schlueter for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lZ34MG"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Matt Amodio, the Latest \u2018Jeopardy!\u2019 Star, Breaks $1 Million",
+      "abstract": "The Ph.D. student in computer science at Yale is only the third contestant to reach that level of winnings.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/television/matt-amodio-jeopardy-wins.html",
+      "uri": "nyt://article/f68d942c-8b67-51d7-b604-6c85637d77ca",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T19:42:04-04:00",
+      "created_date": "2021-09-24T19:30:06-04:00",
+      "published_date": "2021-09-24T19:30:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Game Shows",
+        "Jeopardy! (TV Program)",
+        "Contests and Prizes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Amodio, Matt"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/merlin_193197798_e7e3b603-3ce9-472d-a596-273951bb25ab-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1251,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Amodio, a Yale graduate student, became the third contestant in \u201cJeopardy!\u201d history to surpass $1 million in winnings.",
+          "copyright": "Jeopardy! Productions Inc., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/24jeopardy-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Amodio, a Yale graduate student, became the third contestant in \u201cJeopardy!\u201d history to surpass $1 million in winnings.",
+          "copyright": "Jeopardy! Productions Inc., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/24jeopardy-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Amodio, a Yale graduate student, became the third contestant in \u201cJeopardy!\u201d history to surpass $1 million in winnings.",
+          "copyright": "Jeopardy! Productions Inc., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/24jeopardy-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Amodio, a Yale graduate student, became the third contestant in \u201cJeopardy!\u201d history to surpass $1 million in winnings.",
+          "copyright": "Jeopardy! Productions Inc., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24jeopardy/merlin_193197798_e7e3b603-3ce9-472d-a596-273951bb25ab-articleInline.jpg",
+          "format": "Normal",
+          "height": 116,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Amodio, a Yale graduate student, became the third contestant in \u201cJeopardy!\u201d history to surpass $1 million in winnings.",
+          "copyright": "Jeopardy! Productions Inc., via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ETbpKw"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Saving the Artwork of the South: Deep Investment, and a Drone",
+      "abstract": "From Birmingham to Gee\u2019s Bend, the Souls Grown Deep Foundation is directly investing in Alabama communities where artists and quilters live, work \u2014 and struggle.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/design/joe-minter-gees-bend-souls-grown-deep.html",
+      "uri": "nyt://article/9b3a89b6-a193-5f31-8953-f520a9101930",
+      "byline": "By Hilarie M. Sheets",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T16:05:42-04:00",
+      "created_date": "2021-09-24T05:00:30-04:00",
+      "published_date": "2021-09-24T05:00:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Black People",
+        "Philanthropy",
+        "Quilts",
+        "Museums",
+        "Poverty"
+      ],
+      "org_facet": [
+        "Souls Grown Deep Foundation"
+      ],
+      "per_facet": [
+        "Arnett, Bill (1939-2020)",
+        "Minter, Joe"
+      ],
+      "geo_facet": [
+        "Boykin (Ala)",
+        "Birmingham (Ala)",
+        "Alabama"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/arts/26minter-1/merlin_193969233_331c24e6-2e59-4b6b-8492-48f63c9f524c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1373,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The sculptor Joe Minter in his front yard in Birmingham with his yard environment and artwork &ldquo;African Village in America.&rdquo;",
+          "copyright": "Wulf Bradley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/arts/26minter-1/26minter-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The sculptor Joe Minter in his front yard in Birmingham with his yard environment and artwork &ldquo;African Village in America.&rdquo;",
+          "copyright": "Wulf Bradley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/arts/26minter-1/26minter-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The sculptor Joe Minter in his front yard in Birmingham with his yard environment and artwork &ldquo;African Village in America.&rdquo;",
+          "copyright": "Wulf Bradley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/arts/26minter-1/26minter-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The sculptor Joe Minter in his front yard in Birmingham with his yard environment and artwork &ldquo;African Village in America.&rdquo;",
+          "copyright": "Wulf Bradley for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/arts/26minter-1/merlin_193969233_331c24e6-2e59-4b6b-8492-48f63c9f524c-articleInline.jpg",
+          "format": "Normal",
+          "height": 284,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The sculptor Joe Minter in his front yard in Birmingham with his yard environment and artwork &ldquo;African Village in America.&rdquo;",
+          "copyright": "Wulf Bradley for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3o3eBgM"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Paranormal Play in Denver From Meow Wolf",
+      "abstract": "\u201cConvergence Station,\u201d the company\u2019s third installation, may be good business. But is it good art?",
+      "url": "https://www.nytimes.com/2021/09/24/arts/design/meow-wolf-denver-convergence-station.html",
+      "uri": "nyt://article/eb3efa75-9c44-541c-a79a-8b9e6cf4abe7",
+      "byline": "By Ray Mark Rinaldi",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T00:15:21-04:00",
+      "created_date": "2021-09-24T09:26:22-04:00",
+      "published_date": "2021-09-24T09:26:22-04:00",
+      "material_type_facet": "",
+      "kicker": "Exhibition Review",
+      "des_facet": [
+        "Art",
+        "Amusement and Theme Parks",
+        "Convergence Station (Exhibit)"
+      ],
+      "org_facet": [
+        "Meow Wolf (Art Collective)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Denver (Colo)",
+        "Las Vegas (Nev)",
+        "Santa Fe (NM)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24meow-wolf-review-video2still/24meow-wolf-review-video2still-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1149,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Williams for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24meow-wolf-review-video2still/24meow-wolf-review-video2still-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Williams for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24meow-wolf-review-video2still/24meow-wolf-review-video2still-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Williams for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24meow-wolf-review-video2still/24meow-wolf-review-video2still-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Williams for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24meow-wolf-review-video2still/24meow-wolf-review-video2still-articleInline.png",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Williams for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2XY4AH9"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "He Taught Ancient Texts at Oxford. Now He Is Accused of Stealing Some.",
+      "abstract": "Hobby Lobby, the craft chain that helped build a collection for the Museum of the Bible, has sued a former Oxford lecturer, asserting he sold it stolen artifacts.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/design/hobby-lobby-lawsuit-dirk-obbink.html",
+      "uri": "nyt://article/a6308aba-f936-5314-900d-ceb371c32546",
+      "byline": "By Colin Moynihan",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T19:24:04-04:00",
+      "created_date": "2021-09-24T10:00:10-04:00",
+      "published_date": "2021-09-24T10:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Manuscripts",
+        "Museums",
+        "Collectors and Collections",
+        "Suits and Litigation (Civil)",
+        "Robberies and Thefts",
+        "Frauds and Swindling",
+        "Bible",
+        "Colleges and Universities",
+        "Libraries and Librarians"
+      ],
+      "org_facet": [
+        "Oxford University",
+        "Egypt Exploration Society (Nonprofit)",
+        "Hobby Lobby Stores Inc",
+        "Museum of the Bible"
+      ],
+      "per_facet": [
+        "Obbink, Dirk A"
+      ],
+      "geo_facet": [
+        "Oxford (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/arts/00obbink-hobby-1/merlin_194129883_763e88a5-e038-42c7-bb6f-69d871f21a0e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 956,
+          "width": 1440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dirk Obbink, in 2005, at the Sackler Library of the University of Oxford, which houses the Egypt Exploration Society\u2019s Oxyrhynchus collection. He has denied having taken anything from the collection.",
+          "copyright": "Geraint Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/arts/00obbink-hobby-1/merlin_194129883_763e88a5-e038-42c7-bb6f-69d871f21a0e-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dirk Obbink, in 2005, at the Sackler Library of the University of Oxford, which houses the Egypt Exploration Society\u2019s Oxyrhynchus collection. He has denied having taken anything from the collection.",
+          "copyright": "Geraint Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/arts/00obbink-hobby-1/merlin_194129883_763e88a5-e038-42c7-bb6f-69d871f21a0e-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dirk Obbink, in 2005, at the Sackler Library of the University of Oxford, which houses the Egypt Exploration Society\u2019s Oxyrhynchus collection. He has denied having taken anything from the collection.",
+          "copyright": "Geraint Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/arts/00obbink-hobby-1/merlin_194129883_763e88a5-e038-42c7-bb6f-69d871f21a0e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dirk Obbink, in 2005, at the Sackler Library of the University of Oxford, which houses the Egypt Exploration Society\u2019s Oxyrhynchus collection. He has denied having taken anything from the collection.",
+          "copyright": "Geraint Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/arts/00obbink-hobby-1/merlin_194129883_763e88a5-e038-42c7-bb6f-69d871f21a0e-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dirk Obbink, in 2005, at the Sackler Library of the University of Oxford, which houses the Egypt Exploration Society\u2019s Oxyrhynchus collection. He has denied having taken anything from the collection.",
+          "copyright": "Geraint Lewis"
+        }
+      ],
+      "short_url": "https://nyti.ms/3umjiDL"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "After a Choreographer\u2019s Suicide, Ballet Confronts Tough Questions",
+      "abstract": "Liam Scarlett killed himself after he was accused of misconduct. Now the dance world is grappling with the aftermath.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/dance/Liam-Scarlett-suicide-ballet.html",
+      "uri": "nyt://article/3826a831-a167-5335-bd1e-125d1381c73d",
+      "byline": "By Roslyn Sulcas",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T16:01:18-04:00",
+      "created_date": "2021-09-24T09:16:55-04:00",
+      "published_date": "2021-09-24T09:16:55-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Dancing",
+        "Suicides and Suicide Attempts",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [
+        "Royal Ballet"
+      ],
+      "per_facet": [
+        "Scarlett, Liam"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/20scarlett-3NEW/merlin_195030573_0ff1c6f9-d7ee-4f95-8a41-0921fa44e9d3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emilio Pavan and Madison Young in the Bayerisches Staatsballett&rsquo;s production of Liam Scarlett&rsquo;s &ldquo;With a Chance of Rain.&rdquo;",
+          "copyright": "Katja Lotter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/20scarlett-3NEW/20scarlett-3NEW-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emilio Pavan and Madison Young in the Bayerisches Staatsballett&rsquo;s production of Liam Scarlett&rsquo;s &ldquo;With a Chance of Rain.&rdquo;",
+          "copyright": "Katja Lotter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/20scarlett-3NEW/20scarlett-3NEW-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emilio Pavan and Madison Young in the Bayerisches Staatsballett&rsquo;s production of Liam Scarlett&rsquo;s &ldquo;With a Chance of Rain.&rdquo;",
+          "copyright": "Katja Lotter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/20scarlett-3NEW/merlin_195030573_0ff1c6f9-d7ee-4f95-8a41-0921fa44e9d3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emilio Pavan and Madison Young in the Bayerisches Staatsballett&rsquo;s production of Liam Scarlett&rsquo;s &ldquo;With a Chance of Rain.&rdquo;",
+          "copyright": "Katja Lotter"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/20scarlett-3NEW/merlin_195030573_0ff1c6f9-d7ee-4f95-8a41-0921fa44e9d3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emilio Pavan and Madison Young in the Bayerisches Staatsballett&rsquo;s production of Liam Scarlett&rsquo;s &ldquo;With a Chance of Rain.&rdquo;",
+          "copyright": "Katja Lotter"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CHP2Wz"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: The Philharmonic Tries Out Another Temporary Home",
+      "abstract": "After opening its season at Alice Tully Hall, the orchestra found more congenial surroundings at the Rose Theater.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/music/new-york-philharmonic-beethoven-haydn.html",
+      "uri": "nyt://article/6e22ec61-d96a-5de7-946f-0c6989c9e8fb",
+      "byline": "By Zachary Woolfe",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T00:18:31-04:00",
+      "created_date": "2021-09-24T11:22:52-04:00",
+      "published_date": "2021-09-24T11:22:52-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "New York Philharmonic"
+      ],
+      "per_facet": [
+        "Beethoven, Ludwig van",
+        "Bronfman, Yefim",
+        "Haydn, Franz Joseph",
+        "van Zweden, Jaap",
+        "Kendall, Hannah (1984- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24orchestra-1/merlin_195219069_21b3a333-5682-40a7-bc63-ae2ef0dba2e8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Yefim Bronfman as the soloist in Beethoven&rsquo;s Third Piano Concerto, performed by the New York Philharmonic on Thursday and led by Jaap van Zweden.",
+          "copyright": "Hiroyuki Ito for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24orchestra-1/24orchestra-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Yefim Bronfman as the soloist in Beethoven&rsquo;s Third Piano Concerto, performed by the New York Philharmonic on Thursday and led by Jaap van Zweden.",
+          "copyright": "Hiroyuki Ito for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24orchestra-1/24orchestra-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Yefim Bronfman as the soloist in Beethoven&rsquo;s Third Piano Concerto, performed by the New York Philharmonic on Thursday and led by Jaap van Zweden.",
+          "copyright": "Hiroyuki Ito for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24orchestra-1/merlin_195219069_21b3a333-5682-40a7-bc63-ae2ef0dba2e8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Yefim Bronfman as the soloist in Beethoven&rsquo;s Third Piano Concerto, performed by the New York Philharmonic on Thursday and led by Jaap van Zweden.",
+          "copyright": "Hiroyuki Ito for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/arts/24orchestra-1/merlin_195219069_21b3a333-5682-40a7-bc63-ae2ef0dba2e8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The pianist Yefim Bronfman as the soloist in Beethoven&rsquo;s Third Piano Concerto, performed by the New York Philharmonic on Thursday and led by Jaap van Zweden.",
+          "copyright": "Hiroyuki Ito for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ZvmjWQ"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "George Mraz, Consummate Jazz Bassist, Dies at 77",
+      "abstract": "For half a century, he was in constant demand, backing big names like Oscar Peterson as well as countless up-and-coming performers.",
+      "url": "https://www.nytimes.com/2021/09/25/arts/music/george-mraz-consummate-jazz-bassist-dies-at-77.html",
+      "uri": "nyt://article/f515264a-b887-5451-b4f0-bcbb69ad181c",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T17:46:49-04:00",
+      "created_date": "2021-09-25T17:37:52-04:00",
+      "published_date": "2021-09-25T17:37:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Jazz",
+        "Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mraz, George"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/obituaries/24Mraz1/24Mraz1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1380,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Mraz in performance in about 1977.\u00a0He established himself as one of the most in-demand bassists in jazz early in has career and retained that status for decades.",
+          "copyright": " Tom Copi/Michael Ochs Archives, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/obituaries/24Mraz1/24Mraz1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Mraz in performance in about 1977.\u00a0He established himself as one of the most in-demand bassists in jazz early in has career and retained that status for decades.",
+          "copyright": " Tom Copi/Michael Ochs Archives, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/obituaries/24Mraz1/24Mraz1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Mraz in performance in about 1977.\u00a0He established himself as one of the most in-demand bassists in jazz early in has career and retained that status for decades.",
+          "copyright": " Tom Copi/Michael Ochs Archives, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/obituaries/24Mraz1/24Mraz1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Mraz in performance in about 1977.\u00a0He established himself as one of the most in-demand bassists in jazz early in has career and retained that status for decades.",
+          "copyright": " Tom Copi/Michael Ochs Archives, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/obituaries/24Mraz1/24Mraz1-articleInline.jpg",
+          "format": "Normal",
+          "height": 282,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Mraz in performance in about 1977.\u00a0He established himself as one of the most in-demand bassists in jazz early in has career and retained that status for decades.",
+          "copyright": " Tom Copi/Michael Ochs Archives, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kDYYKy"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Review: Sounds and Styles Playfully Collide in \u2018Only an Octave Apart\u2019",
+      "abstract": "This show brings together two convention-inverting artists: the cabaret star Justin Vivian Bond and the opera singer Anthony Roth Costanzo.",
+      "url": "https://www.nytimes.com/2021/09/25/theater/only-an-octave-apart-review.html",
+      "uri": "nyt://article/cea6ffb8-c3e4-547d-9370-3318a7cae7c7",
+      "byline": "By Naveen Kumar",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T17:22:35-04:00",
+      "created_date": "2021-09-25T09:30:21-04:00",
+      "published_date": "2021-09-25T09:30:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Music",
+        "Opera",
+        "Only an Octave Apart (Play)"
+      ],
+      "org_facet": [
+        "St Ann's Warehouse (Brooklyn, NY)"
+      ],
+      "per_facet": [
+        "Bond, Justin Vivian",
+        "Costanzo, Anthony Roth"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24octave-review/merlin_195202260_7d759171-dcf7-4a52-b0e5-98b6bf5a1bb8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1362,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Vivian Bond, left, and Anthony Roth Costanzo in their show \u201cOnly an Octave Apart,\u201d at St. Ann\u2019s Warehouse in Brooklyn.",
+          "copyright": "Nina Westervelt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24octave-review/24octave-review-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Vivian Bond, left, and Anthony Roth Costanzo in their show \u201cOnly an Octave Apart,\u201d at St. Ann\u2019s Warehouse in Brooklyn.",
+          "copyright": "Nina Westervelt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24octave-review/24octave-review-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Vivian Bond, left, and Anthony Roth Costanzo in their show \u201cOnly an Octave Apart,\u201d at St. Ann\u2019s Warehouse in Brooklyn.",
+          "copyright": "Nina Westervelt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24octave-review/24octave-review-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Vivian Bond, left, and Anthony Roth Costanzo in their show \u201cOnly an Octave Apart,\u201d at St. Ann\u2019s Warehouse in Brooklyn.",
+          "copyright": "Nina Westervelt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24octave-review/merlin_195202260_7d759171-dcf7-4a52-b0e5-98b6bf5a1bb8-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Vivian Bond, left, and Anthony Roth Costanzo in their show \u201cOnly an Octave Apart,\u201d at St. Ann\u2019s Warehouse in Brooklyn.",
+          "copyright": "Nina Westervelt"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zAFFpS"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Packing Your Purse (or Pockets) for a Night at the Opera",
+      "abstract": "Melissa Clark takes in the drama with a side of snacks, neat and petite, to sustain her through the highs and lows.",
+      "url": "https://www.nytimes.com/2021/09/25/arts/music/opera-snacks-melissa-clark.html",
+      "uri": "nyt://article/21dce899-92c6-5707-837c-bbf9d0dc26bd",
+      "byline": "By Melissa Clark",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T22:04:59-04:00",
+      "created_date": "2021-09-25T05:02:36-04:00",
+      "published_date": "2021-09-25T05:02:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Opera",
+        "Cooking and Cookbooks",
+        "Snack Foods"
+      ],
+      "org_facet": [
+        "Metropolitan Opera"
+      ],
+      "per_facet": [
+        "Costanzo, Anthony Roth"
+      ],
+      "geo_facet": [
+        "Damrosch Park (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metfood-inyt4/27sp-metfood-inyt4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1685,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Melissa Clark&rsquo;s not in the kitchen, she might be at the Metropolitan Opera in New York. And that vintage bag holds more than a mask.",
+          "copyright": "Winnie Au for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metfood-inyt4/27sp-metfood-inyt4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Melissa Clark&rsquo;s not in the kitchen, she might be at the Metropolitan Opera in New York. And that vintage bag holds more than a mask.",
+          "copyright": "Winnie Au for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metfood-inyt4/27sp-metfood-inyt4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Melissa Clark&rsquo;s not in the kitchen, she might be at the Metropolitan Opera in New York. And that vintage bag holds more than a mask.",
+          "copyright": "Winnie Au for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metfood-inyt4/27sp-metfood-inyt4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Melissa Clark&rsquo;s not in the kitchen, she might be at the Metropolitan Opera in New York. And that vintage bag holds more than a mask.",
+          "copyright": "Winnie Au for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metfood-inyt4/27sp-metfood-inyt4-articleInline.jpg",
+          "format": "Normal",
+          "height": 231,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Melissa Clark&rsquo;s not in the kitchen, she might be at the Metropolitan Opera in New York. And that vintage bag holds more than a mask.",
+          "copyright": "Winnie Au for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3EUoMui"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "\u2018Aria Code\u2019 Explores the Meaning Behind the Music",
+      "abstract": "The podcast hopes to extend the appeal of opera, \u201can art form that comes with a fair bit of baggage,\u201d to a larger audience.",
+      "url": "https://www.nytimes.com/2021/09/25/arts/music/aria-code-opera-podcast.html",
+      "uri": "nyt://article/1060e652-f10e-5974-93c5-343af70e3609",
+      "byline": "By Susanne Fowler",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T21:52:17-04:00",
+      "created_date": "2021-09-25T05:02:35-04:00",
+      "published_date": "2021-09-25T05:02:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Opera",
+        "Podcasts",
+        "Aria Code (Radio Program)"
+      ],
+      "org_facet": [
+        "Metropolitan Opera",
+        "WQXR"
+      ],
+      "per_facet": [
+        "Giddens, Rhiannon",
+        "Lazyan, Merrin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metariacode-inyt2/merlin_104789956_6dcf4600-45aa-4ec6-b46d-4591314c1451-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ana Mar&iacute;a Mart&iacute;nez as Cio-Cio-San and Robert De Biasio as Pinkerton in Puccini&rsquo;s &ldquo;Madama Butterfly,&rdquo; the subject of an &ldquo;Aria Code&rdquo; podcast.",
+          "copyright": "Marty Sohl /Metropolitan Opera"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metariacode-inyt2/27sp-metariacode-inyt2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ana Mar&iacute;a Mart&iacute;nez as Cio-Cio-San and Robert De Biasio as Pinkerton in Puccini&rsquo;s &ldquo;Madama Butterfly,&rdquo; the subject of an &ldquo;Aria Code&rdquo; podcast.",
+          "copyright": "Marty Sohl /Metropolitan Opera"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metariacode-inyt2/27sp-metariacode-inyt2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ana Mar&iacute;a Mart&iacute;nez as Cio-Cio-San and Robert De Biasio as Pinkerton in Puccini&rsquo;s &ldquo;Madama Butterfly,&rdquo; the subject of an &ldquo;Aria Code&rdquo; podcast.",
+          "copyright": "Marty Sohl /Metropolitan Opera"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metariacode-inyt2/merlin_104789956_6dcf4600-45aa-4ec6-b46d-4591314c1451-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ana Mar&iacute;a Mart&iacute;nez as Cio-Cio-San and Robert De Biasio as Pinkerton in Puccini&rsquo;s &ldquo;Madama Butterfly,&rdquo; the subject of an &ldquo;Aria Code&rdquo; podcast.",
+          "copyright": "Marty Sohl /Metropolitan Opera"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metariacode-inyt2/merlin_104789956_6dcf4600-45aa-4ec6-b46d-4591314c1451-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ana Mar&iacute;a Mart&iacute;nez as Cio-Cio-San and Robert De Biasio as Pinkerton in Puccini&rsquo;s &ldquo;Madama Butterfly,&rdquo; the subject of an &ldquo;Aria Code&rdquo; podcast.",
+          "copyright": "Marty Sohl /Metropolitan Opera"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CMhp6c"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Anita Hill Has Some Perspective to Offer",
+      "abstract": "Thirty years after she testified before the Senate, the law professor talks about the experience, sexual harassment and her growing impatience with the slow pace of change.",
+      "url": "https://www.nytimes.com/2021/09/25/books/anita-hill-believing.html",
+      "uri": "nyt://article/49e294fb-8cc7-5bbf-9a32-c7042eddf94c",
+      "byline": "By Jessica Bennett",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T18:35:16-04:00",
+      "created_date": "2021-09-25T05:00:19-04:00",
+      "published_date": "2021-09-25T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Books and Literature",
+        "Sexual Harassment",
+        "#MeToo Movement",
+        "Women and Girls",
+        "Law and Legislation",
+        "Race and Ethnicity",
+        "United States Politics and Government",
+        "Discrimination",
+        "Sex Crimes",
+        "Believing: Our Thirty-Year Journey to End Gender Violence (Book)"
+      ],
+      "org_facet": [
+        "Senate",
+        "Senate Committee on the Judiciary"
+      ],
+      "per_facet": [
+        "Hill, Anita"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/23/books/ANITAHILL-sub/ANITAHILL-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1152,
+          "width": 960,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing her new book, \u201cBelieving,\u201d felt urgent, Anita Hill said, because \u201cI don\u2019t know how much longer I\u2019m going to be doing this. I don\u2019t even know how much longer I\u2019m going to be around. I want to get all of this out.\u201d",
+          "copyright": "Amani Willett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/23/books/ANITAHILL-sub/ANITAHILL-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing her new book, \u201cBelieving,\u201d felt urgent, Anita Hill said, because \u201cI don\u2019t know how much longer I\u2019m going to be doing this. I don\u2019t even know how much longer I\u2019m going to be around. I want to get all of this out.\u201d",
+          "copyright": "Amani Willett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/23/books/ANITAHILL-sub/ANITAHILL-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing her new book, \u201cBelieving,\u201d felt urgent, Anita Hill said, because \u201cI don\u2019t know how much longer I\u2019m going to be doing this. I don\u2019t even know how much longer I\u2019m going to be around. I want to get all of this out.\u201d",
+          "copyright": "Amani Willett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/23/books/ANITAHILL-sub/ANITAHILL-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing her new book, \u201cBelieving,\u201d felt urgent, Anita Hill said, because \u201cI don\u2019t know how much longer I\u2019m going to be doing this. I don\u2019t even know how much longer I\u2019m going to be around. I want to get all of this out.\u201d",
+          "copyright": "Amani Willett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/23/books/ANITAHILL-sub/ANITAHILL-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 228,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing her new book, \u201cBelieving,\u201d felt urgent, Anita Hill said, because \u201cI don\u2019t know how much longer I\u2019m going to be doing this. I don\u2019t even know how much longer I\u2019m going to be around. I want to get all of this out.\u201d",
+          "copyright": "Amani Willett for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "The Podcasts Opera Pros Tune To",
+      "abstract": "Many favor shows about classical music, of course, but they also listen to shows about pop songs, \u201cThe Moth\u201d and Conan O\u2019Brien.",
+      "url": "https://www.nytimes.com/2021/09/25/arts/music/podcasts-opera-pros-tune-to.html",
+      "uri": "nyt://article/14a1027d-35a7-5f51-804c-796efb5841a0",
+      "byline": "By Susanne Fowler",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T12:53:21-04:00",
+      "created_date": "2021-09-25T05:00:12-04:00",
+      "published_date": "2021-09-25T05:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Opera",
+        "Classical Music",
+        "Aria Code (Radio Program)"
+      ],
+      "org_facet": [
+        "Metropolitan Opera"
+      ],
+      "per_facet": [
+        "Stickann, Keturah"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metaria-side-inyt1/merlin_195131733_2192868a-358b-4ead-9d24-b1fc341a18b9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2000,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A promotional illustration for &ldquo;The 5th,&rdquo; a four-part Beethoven mini-series that the &ldquo;Switched on Pop&rdquo; podcast did with the New York Philharmonic.",
+          "copyright": "Iris Gottlieb, via Switched on Pop"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metaria-side-inyt1/27sp-metaria-side-inyt1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A promotional illustration for &ldquo;The 5th,&rdquo; a four-part Beethoven mini-series that the &ldquo;Switched on Pop&rdquo; podcast did with the New York Philharmonic.",
+          "copyright": "Iris Gottlieb, via Switched on Pop"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metaria-side-inyt1/27sp-metaria-side-inyt1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A promotional illustration for &ldquo;The 5th,&rdquo; a four-part Beethoven mini-series that the &ldquo;Switched on Pop&rdquo; podcast did with the New York Philharmonic.",
+          "copyright": "Iris Gottlieb, via Switched on Pop"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metaria-side-inyt1/27sp-metaria-side-inyt1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A promotional illustration for &ldquo;The 5th,&rdquo; a four-part Beethoven mini-series that the &ldquo;Switched on Pop&rdquo; podcast did with the New York Philharmonic.",
+          "copyright": "Iris Gottlieb, via Switched on Pop"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/multimedia/27sp-metaria-side-inyt1/merlin_195131733_2192868a-358b-4ead-9d24-b1fc341a18b9-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A promotional illustration for &ldquo;The 5th,&rdquo; a four-part Beethoven mini-series that the &ldquo;Switched on Pop&rdquo; podcast did with the New York Philharmonic.",
+          "copyright": "Iris Gottlieb, via Switched on Pop"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CFojtM"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Wole Soyinka Is Not Going Anywhere",
+      "abstract": "The Nobel laureate, whose new novel, \u201cChronicles From the Land of the Happiest People on Earth,\u201d is his first in nearly 50 years, refuses to back down when he senses that his homeland\u2019s freedom is under threat.",
+      "url": "https://www.nytimes.com/2021/09/25/books/wole-soyinka-chronicles-land-happiest-people-earth.html",
+      "uri": "nyt://article/00b2f519-a452-5f15-9a4e-4c3d9b400257",
+      "byline": "By Ruth Maclean",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T04:59:08-04:00",
+      "created_date": "2021-09-25T04:59:08-04:00",
+      "published_date": "2021-09-25T04:59:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Books and Literature",
+        "Writing and Writers",
+        "Chronicles From the Land of the Happiest People on Earth (Book)",
+        "Politics and Government",
+        "Nobel Prizes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Soyinka, Wole"
+      ],
+      "geo_facet": [
+        "Nigeria",
+        "Lagos (Nigeria)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/26SOYINKA1/merlin_188236797_bc487569-af86-4185-86aa-6bae395121a7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1381,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUnfortunately, some of us are not very wise. We know what we ought to do, when we should retire, go and hide out somewhere, live a life of ease,\u201d Wole Soyinka said. \u201cBut we don\u2019t take our own advice, do we?\u201d",
+          "copyright": "Yagazie Emezi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/26SOYINKA1/26SOLINKA1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUnfortunately, some of us are not very wise. We know what we ought to do, when we should retire, go and hide out somewhere, live a life of ease,\u201d Wole Soyinka said. \u201cBut we don\u2019t take our own advice, do we?\u201d",
+          "copyright": "Yagazie Emezi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/26SOYINKA1/26SOLINKA1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUnfortunately, some of us are not very wise. We know what we ought to do, when we should retire, go and hide out somewhere, live a life of ease,\u201d Wole Soyinka said. \u201cBut we don\u2019t take our own advice, do we?\u201d",
+          "copyright": "Yagazie Emezi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/26SOYINKA1/26SOLINKA1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUnfortunately, some of us are not very wise. We know what we ought to do, when we should retire, go and hide out somewhere, live a life of ease,\u201d Wole Soyinka said. \u201cBut we don\u2019t take our own advice, do we?\u201d",
+          "copyright": "Yagazie Emezi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/26SOYINKA1/merlin_188236797_bc487569-af86-4185-86aa-6bae395121a7-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cUnfortunately, some of us are not very wise. We know what we ought to do, when we should retire, go and hide out somewhere, live a life of ease,\u201d Wole Soyinka said. \u201cBut we don\u2019t take our own advice, do we?\u201d",
+          "copyright": "Yagazie Emezi for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3m0DrLw"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Charles G. Sellers, Historian Who Upset the Postwar Consensus, Dies at 98",
+      "abstract": "A Southerner who became a radical at Berkeley, he argued that democracy developed in America as a response to the emergence of industrial capitalism.",
+      "url": "https://www.nytimes.com/2021/09/24/books/charles-g-sellers-dead.html",
+      "uri": "nyt://article/b6e279a9-bff0-5ecd-864e-d7803fbbc473",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T15:10:04-04:00",
+      "created_date": "2021-09-24T18:24:17-04:00",
+      "published_date": "2021-09-24T18:24:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "History (Academic Subject)",
+        "Capitalism (Theory and Philosophy)",
+        "Civil Rights Movement (1954-68)",
+        "United States Politics and Government",
+        "The Market Revolution: Jacksonian America, 1815-1846 (Book)"
+      ],
+      "org_facet": [
+        "University of California, Berkeley"
+      ],
+      "per_facet": [
+        "Sellers, Charles G (1923-2021)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/obituaries/24Sellers1/24Sellers1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The historian Charles G. Sellers in 2007. His commitment to progressive causes was evident in his writing as well as his politics.",
+          "copyright": "Eric Etheridge"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/obituaries/24Sellers1/24Sellers1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The historian Charles G. Sellers in 2007. His commitment to progressive causes was evident in his writing as well as his politics.",
+          "copyright": "Eric Etheridge"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/obituaries/24Sellers1/24Sellers1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The historian Charles G. Sellers in 2007. His commitment to progressive causes was evident in his writing as well as his politics.",
+          "copyright": "Eric Etheridge"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/obituaries/24Sellers1/24Sellers1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The historian Charles G. Sellers in 2007. His commitment to progressive causes was evident in his writing as well as his politics.",
+          "copyright": "Eric Etheridge"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/obituaries/24Sellers1/24Sellers1-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The historian Charles G. Sellers in 2007. His commitment to progressive causes was evident in his writing as well as his politics.",
+          "copyright": "Eric Etheridge"
+        }
+      ],
+      "short_url": "https://nyti.ms/2XR9lly"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Mike Flanagan Explores His Private Horrors in \u2018Midnight Mass\u2019",
+      "abstract": "In the new Netflix series, the acclaimed adapter of works by Shirley Jackson and Stephen King tells a more personal story.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/television/midnight-mass-mike-flanagan.html",
+      "uri": "nyt://article/94610915-5a25-5f6e-8d12-349115b9860a",
+      "byline": "By Darryn King",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T19:26:14-04:00",
+      "created_date": "2021-09-24T17:10:34-04:00",
+      "published_date": "2021-09-24T17:10:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Midnight Mass (TV Program)",
+        "Writing and Writers",
+        "Content Type: Personal Profile",
+        "Religion and Belief"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [
+        "Flanagan, Mike (1978- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/27flanagan4/merlin_194769498_abf8dc32-1361-4024-ad44-ff8782eedef1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Flanagan\u2019s new series, \u201cMidnight Mass,\u201d was inspired by his experiences with religion and addiction.",
+          "copyright": "Brad Torchia for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/27flanagan4/27flanagan4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Flanagan\u2019s new series, \u201cMidnight Mass,\u201d was inspired by his experiences with religion and addiction.",
+          "copyright": "Brad Torchia for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/27flanagan4/27flanagan4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Flanagan\u2019s new series, \u201cMidnight Mass,\u201d was inspired by his experiences with religion and addiction.",
+          "copyright": "Brad Torchia for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/27flanagan4/27flanagan4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Flanagan\u2019s new series, \u201cMidnight Mass,\u201d was inspired by his experiences with religion and addiction.",
+          "copyright": "Brad Torchia for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/27flanagan4/merlin_194769498_abf8dc32-1361-4024-ad44-ff8782eedef1-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Flanagan\u2019s new series, \u201cMidnight Mass,\u201d was inspired by his experiences with religion and addiction.",
+          "copyright": "Brad Torchia for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i7iLR7"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "The Score of Final Fantasy Gets Its Due at the Concert Hall",
+      "abstract": "The beloved music for this video game and others have been covered on YouTube for years. Now some are performed at classical music\u2019s grandest venues.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/music/final-fantasy-music.html",
+      "uri": "nyt://article/fad41a51-ac2a-5aac-8b3c-508b9482071b",
+      "byline": "By Aina J. Khan",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T19:17:58-04:00",
+      "created_date": "2021-09-24T16:30:54-04:00",
+      "published_date": "2021-09-24T16:30:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Fans (Persons)",
+        "Computer and Video Games",
+        "Classical Music",
+        "Final Fantasy VII Remake (Video Game)"
+      ],
+      "org_facet": [
+        "Royal Philharmonic Orchestra",
+        "Square Enix"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24video-game10/merlin_195171105_bcad6684-4394-4047-90c7-5ead30cf27b6-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Since 2007, there have been more than 200 official Final Fantasy concerts across 20 countries.",
+          "copyright": "Alex Ingram for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24video-game10/24final-fantasy1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Since 2007, there have been more than 200 official Final Fantasy concerts across 20 countries.",
+          "copyright": "Alex Ingram for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24video-game10/24final-fantasy1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Since 2007, there have been more than 200 official Final Fantasy concerts across 20 countries.",
+          "copyright": "Alex Ingram for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24video-game10/24final-fantasy1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Since 2007, there have been more than 200 official Final Fantasy concerts across 20 countries.",
+          "copyright": "Alex Ingram for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24video-game10/merlin_195171105_bcad6684-4394-4047-90c7-5ead30cf27b6-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Since 2007, there have been more than 200 official Final Fantasy concerts across 20 countries.",
+          "copyright": "Alex Ingram for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i74bc9"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Qu\u00e9 pasa cuando una minivan se transforma en una m\u00e1quina musical",
+      "abstract": "Un vistazo al universo dominicano de los autom\u00f3viles con sistemas de sonido personalizado.",
+      "url": "https://www.nytimes.com/es/interactive/2021/09/24/arts/music/equipo-sonido-auto-dominicano.html",
+      "uri": "nyt://interactive/c2342134-526d-5078-911b-3cd666512f34",
+      "byline": "By Isabelia Herrera and Josefina Santos",
+      "item_type": "Interactive",
+      "updated_date": "2021-09-24T16:50:43-04:00",
+      "created_date": "2021-09-24T16:27:46-04:00",
+      "published_date": "2021-09-24T16:27:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Music",
+        "Speakers (Audio)",
+        "Dominican-Americans",
+        "Minivans",
+        "Vans"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/21/arts/21SURFACING-SOUNDSYSTEMS-PROMO/21SURFACING-SOUNDSYSTEMS-PROMO-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josefina Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/21/arts/21SURFACING-SOUNDSYSTEMS-PROMO/21SURFACING-SOUNDSYSTEMS-PROMO-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josefina Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/21/arts/21SURFACING-SOUNDSYSTEMS-PROMO/21SURFACING-SOUNDSYSTEMS-PROMO-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josefina Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/21/arts/21SURFACING-SOUNDSYSTEMS-PROMO/21SURFACING-SOUNDSYSTEMS-PROMO-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josefina Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/21/arts/21SURFACING-SOUNDSYSTEMS-PROMO/21SURFACING-SOUNDSYSTEMS-PROMO-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josefina Santos for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lZxdeP"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "What to Do This Weekend",
+      "abstract": "Take an audio trip.",
+      "url": "https://www.nytimes.com/2021/09/24/at-home/newsletter.html",
+      "uri": "nyt://article/dc6251da-d1ec-5c75-aa6a-31e566bd2883",
+      "byline": "By Melissa Kirsch",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T16:00:06-04:00",
+      "created_date": "2021-09-24T16:00:06-04:00",
+      "published_date": "2021-09-24T16:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "At Home and Away Newsletter",
+      "des_facet": [
+        "Content Type: Service",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/multimedia/24At-Home-Newsletter/24At-Home-Newsletter-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1166,
+          "width": 1750,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paola Saliby"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/multimedia/24At-Home-Newsletter/24At-Home-Newsletter-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paola Saliby"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/multimedia/24At-Home-Newsletter/24At-Home-Newsletter-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paola Saliby"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/multimedia/24At-Home-Newsletter/24At-Home-Newsletter-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paola Saliby"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/multimedia/24At-Home-Newsletter/24At-Home-Newsletter-articleInline.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Paola Saliby"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i0kYh9"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "In Louisiana, a Haunting Landscape",
+      "abstract": "In a break from portraiture, Dawoud Bey photographed plantations on the west bank of the Mississippi River, drawing a line between past and present.",
+      "url": "https://www.nytimes.com/2021/09/24/t-magazine/dawoud-bey-plantations.html",
+      "uri": "nyt://article/77f7503f-ab55-5d08-a599-b368a5745570",
+      "byline": "By Alwa Cooper",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T01:24:45-04:00",
+      "created_date": "2021-09-24T15:39:11-04:00",
+      "published_date": "2021-09-24T15:39:11-04:00",
+      "material_type_facet": "",
+      "kicker": "The Artists",
+      "des_facet": [
+        "Art",
+        "Slavery (Historical)",
+        "Black People",
+        "Photography"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bey, Dawoud"
+      ],
+      "geo_facet": [
+        "Louisiana",
+        "Mississippi River"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/t-magazine/24tmag-bey/24tmag-bey-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1636,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dawoud Bey\u2019s \u201cCabins and Shadows\u201d (2020).",
+          "copyright": "Courtesy of the artist and Sean Kelly Gallery"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/t-magazine/24tmag-bey/24tmag-bey-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dawoud Bey\u2019s \u201cCabins and Shadows\u201d (2020).",
+          "copyright": "Courtesy of the artist and Sean Kelly Gallery"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/t-magazine/24tmag-bey/24tmag-bey-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dawoud Bey\u2019s \u201cCabins and Shadows\u201d (2020).",
+          "copyright": "Courtesy of the artist and Sean Kelly Gallery"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/t-magazine/24tmag-bey/24tmag-bey-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dawoud Bey\u2019s \u201cCabins and Shadows\u201d (2020).",
+          "copyright": "Courtesy of the artist and Sean Kelly Gallery"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/t-magazine/24tmag-bey/24tmag-bey-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dawoud Bey\u2019s \u201cCabins and Shadows\u201d (2020).",
+          "copyright": "Courtesy of the artist and Sean Kelly Gallery"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CYvAoX"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "A Journey Along the River That Separates Russia From China",
+      "abstract": "As he neared 80, the travel writer Colin Thubron took a trip along the 10th longest river in the world, chronicled in \u201cThe Amur River.\u201d",
+      "url": "https://www.nytimes.com/2021/09/24/books/review/the-amur-river-colin-thubron.html",
+      "uri": "nyt://article/34d37348-6e40-567a-b522-ffe064a9280f",
+      "byline": "By Ben Ehrenreich",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T16:11:42-04:00",
+      "created_date": "2021-09-24T15:15:58-04:00",
+      "published_date": "2021-09-24T15:15:58-04:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Travel and Vacations",
+        "Rivers",
+        "Cold War Era",
+        "The Amur River: Between Russia and China (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Thubron, Colin"
+      ],
+      "geo_facet": [
+        "Amur River",
+        "Central Asia",
+        "Mongolia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/books/24Ehrenreich/merlin_175457034_949f4b61-74d8-43d8-a357-cb95d6c1ea04-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishermen checking their nets on the Amur river not far from the indigenous village of Sikachi-Alyan.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/books/24Ehrenreich/24Ehrenreich-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishermen checking their nets on the Amur river not far from the indigenous village of Sikachi-Alyan.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/books/24Ehrenreich/24Ehrenreich-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishermen checking their nets on the Amur river not far from the indigenous village of Sikachi-Alyan.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/books/24Ehrenreich/24Ehrenreich-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishermen checking their nets on the Amur river not far from the indigenous village of Sikachi-Alyan.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/books/24Ehrenreich/merlin_175457034_949f4b61-74d8-43d8-a357-cb95d6c1ea04-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishermen checking their nets on the Amur river not far from the indigenous village of Sikachi-Alyan.",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39zwcEu"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "When a President Wrote for the Book Review",
+      "abstract": "For the 125th anniversary of the Book Review, we revisit the time Teddy Roosevelt gushed on our front cover about a book he loved.",
+      "url": "https://www.nytimes.com/2021/09/24/books/when-a-president-wrote-for-the-book-review.html",
+      "uri": "nyt://article/4ee6e703-9523-5918-bd58-471bb442a789",
+      "byline": "By Tina Jordan",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T14:42:51-04:00",
+      "created_date": "2021-09-24T14:42:51-04:00",
+      "published_date": "2021-09-24T14:42:51-04:00",
+      "material_type_facet": "",
+      "kicker": "chapters",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26BackPage-ROOSEVELT/26BackPage-ROOSEVELT-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1283,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26BackPage-ROOSEVELT/26BackPage-ROOSEVELT-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26BackPage-ROOSEVELT/26BackPage-ROOSEVELT-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26BackPage-ROOSEVELT/26BackPage-ROOSEVELT-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26BackPage-ROOSEVELT/26BackPage-ROOSEVELT-articleInline.jpg",
+          "format": "Normal",
+          "height": 303,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3AFJD1P"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "The Best of Late Night This Week \ud83c\udf19 ",
+      "abstract": "This week, seven late-night hosts took part in Climate Night. Otherwise, they focused on news about BTS, the Pfizer vaccine and Donald Trump suing his niece.",
+      "url": "https://www.nytimes.com/interactive/2021/09/24/arts/television/best-of-late-night.html",
+      "uri": "nyt://interactive/d1c2a34f-ac9e-50d7-a441-7b56505b4273",
+      "byline": "By Trish Bendix",
+      "item_type": "Interactive",
+      "updated_date": "2021-09-24T14:42:51-04:00",
+      "created_date": "2021-09-24T14:33:05-04:00",
+      "published_date": "2021-09-24T14:33:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Meyers, Seth",
+        "Fallon, Jimmy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24burst-boln/24burst-boln-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1023,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pool photo by John Angelillo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24burst-boln/24burst-boln-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pool photo by John Angelillo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24burst-boln/24burst-boln-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pool photo by John Angelillo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24burst-boln/24burst-boln-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pool photo by John Angelillo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24burst-boln/24burst-boln-articleInline.jpg",
+          "format": "Normal",
+          "height": 95,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pool photo by John Angelillo"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ENe1K7"
+    },
+    {
+      "section": "obituaries",
+      "subsection": "",
+      "title": "Overlooked No More: Remedios Varo, Spanish Painter of Magic, Mysticism and Science",
+      "abstract": "In the 1950s, and \u201960s, she depicted women, artists and thinkers in intricate dreamlike canvases that now fetch high prices.",
+      "url": "https://www.nytimes.com/2021/09/24/obituaries/remedios-varo-overlooked.html",
+      "uri": "nyt://article/c3a03248-1f42-5dd4-b634-e9b38ba21472",
+      "byline": "By Julia Bozzone",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T18:24:21-04:00",
+      "created_date": "2021-09-24T14:18:34-04:00",
+      "published_date": "2021-09-24T14:18:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Biographical Information",
+        "Art"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Varo, Remedios"
+      ],
+      "geo_facet": [
+        "Mexico",
+        "Spain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/obituaries/Overlooked-Varo/Overlooked-Varo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Surrealist photograph of the painter Remedios Varo in 1957 wearing a headpiece made by her friend the artist Leonora Carrington.",
+          "copyright": "Kati Horna, \"Woman and Mask,\" Ana Mar\u00eda Norah Horna Fern\u00e1ndez, all rights reserved. Photo via Princeton University Art Museum, Art Resource, NY. "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/obituaries/Overlooked-Varo/Overlooked-Varo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Surrealist photograph of the painter Remedios Varo in 1957 wearing a headpiece made by her friend the artist Leonora Carrington.",
+          "copyright": "Kati Horna, \"Woman and Mask,\" Ana Mar\u00eda Norah Horna Fern\u00e1ndez, all rights reserved. Photo via Princeton University Art Museum, Art Resource, NY. "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/obituaries/Overlooked-Varo/Overlooked-Varo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Surrealist photograph of the painter Remedios Varo in 1957 wearing a headpiece made by her friend the artist Leonora Carrington.",
+          "copyright": "Kati Horna, \"Woman and Mask,\" Ana Mar\u00eda Norah Horna Fern\u00e1ndez, all rights reserved. Photo via Princeton University Art Museum, Art Resource, NY. "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/obituaries/Overlooked-Varo/Overlooked-Varo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Surrealist photograph of the painter Remedios Varo in 1957 wearing a headpiece made by her friend the artist Leonora Carrington.",
+          "copyright": "Kati Horna, \"Woman and Mask,\" Ana Mar\u00eda Norah Horna Fern\u00e1ndez, all rights reserved. Photo via Princeton University Art Museum, Art Resource, NY. "
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/obituaries/Overlooked-Varo/Overlooked-Varo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Surrealist photograph of the painter Remedios Varo in 1957 wearing a headpiece made by her friend the artist Leonora Carrington.",
+          "copyright": "Kati Horna, \"Woman and Mask,\" Ana Mar\u00eda Norah Horna Fern\u00e1ndez, all rights reserved. Photo via Princeton University Art Museum, Art Resource, NY. "
+        }
+      ],
+      "short_url": "https://nyti.ms/3lV4SGK"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Review: Keeping the Dance Fires Burning at the Joyce",
+      "abstract": "The excellent Bharatanatyam troupe, Ragamala Dance Company, reopens the theater to live performance with \u201cFires of Varanasi.\u201d",
+      "url": "https://www.nytimes.com/2021/09/24/arts/dance/ragamala-dance-joyce-theater-review.html",
+      "uri": "nyt://article/18e713bf-8e5c-5a0b-bd3c-6bf581c1a508",
+      "byline": "By Brian Seibert",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T00:21:48-04:00",
+      "created_date": "2021-09-24T13:23:43-04:00",
+      "published_date": "2021-09-24T13:23:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Fires of Varanasi: Dance of the Eternal Pilgrim (Dance)"
+      ],
+      "org_facet": [
+        "Joyce Theater",
+        "Ragamala Dance"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24ragamala-1/merlin_195186834_33d36997-a653-4860-97e7-70c30d5e6ef7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chaitra Chandrashekar, Sri Guntipally, Jessica Fiala and Kasi Aysola in \u201cFires of Varanasi: Dance of the Eternal Pilgrim\u201d at the Joyce Theater.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24ragamala-1/24ragamala-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chaitra Chandrashekar, Sri Guntipally, Jessica Fiala and Kasi Aysola in \u201cFires of Varanasi: Dance of the Eternal Pilgrim\u201d at the Joyce Theater.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24ragamala-1/24ragamala-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chaitra Chandrashekar, Sri Guntipally, Jessica Fiala and Kasi Aysola in \u201cFires of Varanasi: Dance of the Eternal Pilgrim\u201d at the Joyce Theater.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24ragamala-1/merlin_195186834_33d36997-a653-4860-97e7-70c30d5e6ef7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chaitra Chandrashekar, Sri Guntipally, Jessica Fiala and Kasi Aysola in \u201cFires of Varanasi: Dance of the Eternal Pilgrim\u201d at the Joyce Theater.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24ragamala-1/merlin_195186834_33d36997-a653-4860-97e7-70c30d5e6ef7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Chaitra Chandrashekar, Sri Guntipally, Jessica Fiala and Kasi Aysola in \u201cFires of Varanasi: Dance of the Eternal Pilgrim\u201d at the Joyce Theater.",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/39BlT2Y"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Word Up! Three Picture Books and a Graphic Novel Celebrate the Power and Joy of Language",
+      "abstract": "\u201cThao,\u201d \u201cOtto: A Palindrama,\u201d \u201cMy Monster Moofy\u201d and \u201cThe Wordy Book\u201d explore myriad worlds within words.",
+      "url": "https://www.nytimes.com/2021/09/24/books/review/otto-jon-agee-thao-lam-monster-moofy-wordy-book.html",
+      "uri": "nyt://article/811036bb-2742-5bea-8e2c-4417ba71202e",
+      "byline": "By Naomi Shihab Nye",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T16:27:27-04:00",
+      "created_date": "2021-09-24T13:09:23-04:00",
+      "published_date": "2021-09-24T13:09:23-04:00",
+      "material_type_facet": "",
+      "kicker": "Children\u2019s Books",
+      "des_facet": [
+        "Books and Literature",
+        "Children and Childhood",
+        "genre-books-childrens",
+        "Language and Languages",
+        "Thao (Book)",
+        "Otto: A Palindrama (Book)",
+        "My Monster Moofy (Book)",
+        "The Wordy Book (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lam, Thao",
+        "Agee, Jon",
+        "Watson, Annie (Author)",
+        "Zelz, Eric",
+        "Paschkis, Julie"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26KIDS1/26KIDS1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1254,
+          "width": 1959,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cThe Wordy Book.\u201d",
+          "copyright": "Julie Paschkis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26KIDS1/26KIDS1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cThe Wordy Book.\u201d",
+          "copyright": "Julie Paschkis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26KIDS1/26KIDS1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cThe Wordy Book.\u201d",
+          "copyright": "Julie Paschkis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26KIDS1/26KIDS1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cThe Wordy Book.\u201d",
+          "copyright": "Julie Paschkis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/26/books/review/26KIDS1/26KIDS1-articleInline.jpg",
+          "format": "Normal",
+          "height": 122,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cThe Wordy Book.\u201d",
+          "copyright": "Julie Paschkis"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kC3ut2"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Man Convicted in Thefts of a van Gogh and a Hals From Dutch Museums",
+      "abstract": "DNA evidence found at the two museums after the burglaries led investigators to the suspect, who has now been sentenced to eight years in prison by a Dutch court.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/design/van-gogh-frans-hals-theft-conviction.html",
+      "uri": "nyt://article/46f993f4-6331-50e1-96ef-865b6913629d",
+      "byline": "By Graham Bowley",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T00:28:06-04:00",
+      "created_date": "2021-09-24T12:48:39-04:00",
+      "published_date": "2021-09-24T12:48:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Museums",
+        "Robberies and Thefts",
+        "DNA (Deoxyribonucleic Acid)"
+      ],
+      "org_facet": [
+        "Museum Hofje van Mevrouw van Aerden (Leerdam, Netherlands)",
+        "Singer Laren"
+      ],
+      "per_facet": [
+        "van Gogh, Vincent",
+        "Hals, Frans"
+      ],
+      "geo_facet": [
+        "Netherlands"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24artthief-item/merlin_186038214_5ee9d978-a5ba-4f9a-ab86-9804869aee51-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 931,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Dutch man was convicted Friday in the thefts of two paintings from Dutch museums, including this van Gogh titled \u201cThe Parsonage Garden at Nuenen in Spring.\u201d",
+          "copyright": "Groninger Museum, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24artthief-item/merlin_186038214_5ee9d978-a5ba-4f9a-ab86-9804869aee51-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Dutch man was convicted Friday in the thefts of two paintings from Dutch museums, including this van Gogh titled \u201cThe Parsonage Garden at Nuenen in Spring.\u201d",
+          "copyright": "Groninger Museum, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24artthief-item/merlin_186038214_5ee9d978-a5ba-4f9a-ab86-9804869aee51-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Dutch man was convicted Friday in the thefts of two paintings from Dutch museums, including this van Gogh titled \u201cThe Parsonage Garden at Nuenen in Spring.\u201d",
+          "copyright": "Groninger Museum, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24artthief-item/merlin_186038214_5ee9d978-a5ba-4f9a-ab86-9804869aee51-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Dutch man was convicted Friday in the thefts of two paintings from Dutch museums, including this van Gogh titled \u201cThe Parsonage Garden at Nuenen in Spring.\u201d",
+          "copyright": "Groninger Museum, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24artthief-item/merlin_186038214_5ee9d978-a5ba-4f9a-ab86-9804869aee51-articleInline.jpg",
+          "format": "Normal",
+          "height": 86,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Dutch man was convicted Friday in the thefts of two paintings from Dutch museums, including this van Gogh titled \u201cThe Parsonage Garden at Nuenen in Spring.\u201d",
+          "copyright": "Groninger Museum, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kDKKcT"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "Disney Sues to Keep Complete Rights to Marvel Characters",
+      "abstract": "The company filed several lawsuits seeking to invalidate copyright-termination notices served by artists and illustrators involved with creating superheroes like Spider-Man and Thor.",
+      "url": "https://www.nytimes.com/2021/09/24/business/media/disney-marvel-copyright-lawsuits.html",
+      "uri": "nyt://article/e931492f-50c1-5760-92bf-00b9cd536c9b",
+      "byline": "By Brooks Barnes",
+      "item_type": "Article",
+      "updated_date": "2021-09-25T14:04:26-04:00",
+      "created_date": "2021-09-24T12:46:29-04:00",
+      "published_date": "2021-09-24T12:46:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Copyrights and Copyright Violations",
+        "Suits and Litigation (Civil)",
+        "Intellectual Property",
+        "Comic Books and Strips"
+      ],
+      "org_facet": [
+        "Marvel Entertainment",
+        "Marvel Comics",
+        "Walt Disney Company"
+      ],
+      "per_facet": [
+        "Toberoff, Marc"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/business/24disney-print/merlin_56715349_9e053b25-17da-461b-b2d7-910f0ad4073d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iron Man has become one of Disney&rsquo;s most valuable characters.",
+          "copyright": "Marvel Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/business/24disney-print/merlin_56715349_9e053b25-17da-461b-b2d7-910f0ad4073d-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iron Man has become one of Disney&rsquo;s most valuable characters.",
+          "copyright": "Marvel Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/business/24disney-print/merlin_56715349_9e053b25-17da-461b-b2d7-910f0ad4073d-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iron Man has become one of Disney&rsquo;s most valuable characters.",
+          "copyright": "Marvel Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/business/24disney-print/merlin_56715349_9e053b25-17da-461b-b2d7-910f0ad4073d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iron Man has become one of Disney&rsquo;s most valuable characters.",
+          "copyright": "Marvel Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/25/business/24disney-print/merlin_56715349_9e053b25-17da-461b-b2d7-910f0ad4073d-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iron Man has become one of Disney&rsquo;s most valuable characters.",
+          "copyright": "Marvel Studios"
+        }
+      ],
+      "short_url": "https://nyti.ms/3umM9YB"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Alessia Cara\u2019s Bouncy Ode to Single Life, and 12 More New Songs",
+      "abstract": "Hear tracks by Coldplay and BTS, J. Cole, Arturo O\u2019Farrill and others.",
+      "url": "https://www.nytimes.com/2021/09/24/arts/music/playlist-alessia-cara-coldplay-bts.html",
+      "uri": "nyt://article/925443de-bf63-56c7-aa50-831ee870da9a",
+      "byline": "By Jon Pareles, Jon Caramanica, Isabelia Herrera and Giovanni Russonello",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T18:48:03-04:00",
+      "created_date": "2021-09-24T12:33:27-04:00",
+      "published_date": "2021-09-24T12:33:27-04:00",
+      "material_type_facet": "",
+      "kicker": "The Playlist",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Rap and Hip-Hop",
+        "Jazz"
+      ],
+      "org_facet": [
+        "BTS (Music Group)",
+        "Coldplay (Music Group)"
+      ],
+      "per_facet": [
+        "Cara, Alessia",
+        "J Cole",
+        "Wiki (Rapper)",
+        "Navy Blue (Rapper)",
+        "Martin, Max (1971- )",
+        "Martin, Chris (1977- )",
+        "Adigery, Charlotte",
+        "Pupul, Bolis",
+        "DJ Lag (Musician)",
+        "Lady Du",
+        "Princess Nokia (1992- )",
+        "Yung Baby Tate",
+        "YoungBoy Never Broke Again (Rapper)",
+        "O'Farrill, Arturo",
+        "Croker, Theo",
+        "Stevens, Sufjan",
+        "De Augustine, Angelo",
+        "Morgan, J'Kerian (Lotic)",
+        "FPA (Frances Priya Anczarski)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/24playlist/24playlist-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1936,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The final track on Alessia Cara\u2019s new album finds the possibility of release by going it alone.",
+          "copyright": "Def Jam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/24playlist/24playlist-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The final track on Alessia Cara\u2019s new album finds the possibility of release by going it alone.",
+          "copyright": "Def Jam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/24playlist/24playlist-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The final track on Alessia Cara\u2019s new album finds the possibility of release by going it alone.",
+          "copyright": "Def Jam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/24playlist/24playlist-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The final track on Alessia Cara\u2019s new album finds the possibility of release by going it alone.",
+          "copyright": "Def Jam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/27/arts/24playlist/24playlist-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 201,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The final track on Alessia Cara\u2019s new album finds the possibility of release by going it alone.",
+          "copyright": "Def Jam"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kKmMg9"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Stream These Five International Films Now",
+      "abstract": "This month\u2019s picks include a slow-burn Romanian drama, a documentary about baseball in Japan, an experimental Chilean film-memoir and more.",
+      "url": "https://www.nytimes.com/2021/09/24/movies/international-streaming.html",
+      "uri": "nyt://article/a6570cca-b243-5772-bd2c-df97acbbccf2",
+      "byline": "By Devika Girish",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T16:38:28-04:00",
+      "created_date": "2021-09-24T11:00:04-04:00",
+      "published_date": "2021-09-24T11:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Father Who Moves Mountains (Movie)",
+        "Koshien: Japan's Field of Dreams (Movie)",
+        "I Never Climbed the Provincia (Movie)",
+        "The Cloud in Her Room (Movie)",
+        "Karnan (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24streaming1/24streaming1-superJumbo-v2.png",
+          "format": "superJumbo",
+          "height": 979,
+          "width": 1991,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Titieni in \u201cThe Father Who Moves Mountains.\u201d",
+          "copyright": "Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24streaming1/24streaming1-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Titieni in \u201cThe Father Who Moves Mountains.\u201d",
+          "copyright": "Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24streaming1/24streaming1-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Titieni in \u201cThe Father Who Moves Mountains.\u201d",
+          "copyright": "Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24streaming1/24streaming1-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Titieni in \u201cThe Father Who Moves Mountains.\u201d",
+          "copyright": "Netflix"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/24streaming1/24streaming1-articleInline-v2.png",
+          "format": "Normal",
+          "height": 93,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Titieni in \u201cThe Father Who Moves Mountains.\u201d",
+          "copyright": "Netflix"
+        }
+      ],
+      "short_url": "https://nyti.ms/3zDicEC"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Watch Ben Platt Perform in \u2018Dear Evan Hansen\u2019",
+      "abstract": "Stephen Chbosky, the director of the film adaptation of the Broadway musical, narrates a sequence with the song \u201cWaving Through a Window.\u201d",
+      "url": "https://www.nytimes.com/2021/09/24/movies/dear-evan-hansen-clip.html",
+      "uri": "nyt://article/53f0fed1-e4ed-52e4-96b4-40953fc7525f",
+      "byline": "By Mekado Murphy",
+      "item_type": "Article",
+      "updated_date": "2021-09-24T10:43:40-04:00",
+      "created_date": "2021-09-24T10:43:40-04:00",
+      "published_date": "2021-09-24T10:43:40-04:00",
+      "material_type_facet": "",
+      "kicker": "Anatomy of a Scene",
+      "des_facet": [
+        "Movies",
+        "Dear Evan Hansen (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Platt, Ben (1993- )",
+        "Chbosky, Stephen"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/dearevanhansen-anatomy2/dearevanhansen-anatomy2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1151,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erika Doss/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/dearevanhansen-anatomy2/dearevanhansen-anatomy2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erika Doss/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/dearevanhansen-anatomy2/dearevanhansen-anatomy2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erika Doss/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/dearevanhansen-anatomy2/dearevanhansen-anatomy2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erika Doss/Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/09/24/arts/dearevanhansen-anatomy2/dearevanhansen-anatomy2-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erika Doss/Universal Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/2XMPunb"
+    }
+  ]
+}
