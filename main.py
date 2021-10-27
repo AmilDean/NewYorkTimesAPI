@@ -14,8 +14,6 @@ import main_functions
 from wordcloud import WordCloud
 import pandas as pd
 
-for x in range(11,41):
-    print(x)
 st.title("COP4813 Web Application Programming")
 st.title("Project 1")
 st.subheader("Part A")
